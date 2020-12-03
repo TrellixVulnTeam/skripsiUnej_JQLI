@@ -1,0 +1,146 @@
+craw :
+code_fak :
+1 = fasilkom
+2 = farmasi
+3 =
+
+insert: insertdata.py
+
+cek link total untuk farmasi ??? 837-829
+
+fak fasilkom link no 322 tidak ada abstrak
+/handle/123456789/93473
+
+farmasi 
+--tidak ada abstrak (66)
+https://repository.unej.ac.id/handle/123456789/2689
+https://repository.unej.ac.id/handle/123456789/23547
+--no title no abstrak(66+218)
+https://repository.unej.ac.id/handle/123456789/2781
+https://repository.unej.ac.id/handle/123456789/2878
+https://repository.unej.ac.id/handle/123456789/2887
+
+----------fk------------
+#tidak ada abstrak
+/handle/123456789/89005
+/handle/123456789/13135
+/handle/123456789/13261
+---------fkm------------
+#tidak ada abstrak
+/handle/123456789/3198
+/handle/123456789/3207
+/handle/123456789/3281
+/handle/123456789/3283
+/handle/123456789/3284
+/handle/123456789/3187
+/handle/123456789/71643
+/handle/123456789/3288
+/handle/123456789/100044
+
+----------fib----------
+#tidak ada abstrak
+/handle/123456789/16354
+/handle/123456789/21169
+/handle/123456789/17386
+/handle/123456789/10886
+/handle/123456789/20653
+/handle/123456789/16856
+/handle/123456789/5159
+/handle/123456789/3764
+/handle/123456789/3920
+/handle/123456789/29317
+/handle/123456789/14067
+/handle/123456789/27009
+/handle/123456789/18244
+/handle/123456789/18333
+/handle/123456789/3936
+/handle/123456789/7716
+/handle/123456789/18185
+/handle/123456789/16372
+
+---------teknik--------
+/handle/123456789/85954
+/handle/123456789/91751
+/handle/123456789/86506
+/handle/123456789/8172
+/handle/123456789/77775
+/handle/123456789/19528
+/handle/123456789/9353
+/handle/123456789/78785
+/handle/123456789/9723
+/handle/123456789/93478
+/handle/123456789/93478
+
+-------fisip-----------
+handle/123456789/14028', 
+/handle/123456789/73456', 
+/handle/123456789/19018', 
+/handle/123456789/81995', 
+/handle/123456789/25843', 
+/handle/123456789/14787', 
+/handle/123456789/35252', 
+/handle/123456789/44249', 
+/handle/123456789/18605', 
+/handle/123456789/16061', 
+/handle/123456789/73451', 
+/handle/123456789/73389', 
+/handle/123456789/16083', 
+/handle/123456789/16104', 
+/handle/123456789/21200', 
+/handle/123456789/23930', 
+/handle/123456789/73461', 
+/handle/123456789/73459', 
+/handle/123456789/14014', 
+/handle/123456789/19069', 
+/handle/123456789/18586', 
+/handle/123456789/15374',
+/handle/123456789/13923', 
+/handle/123456789/12264', 
+/handle/123456789/15712', 
+/handle/123456789/16121', 
+/handle/123456789/23886', 
+/handle/123456789/78216', 
+/handle/123456789/1978', 
+/handle/123456789/16055', 
+/handle/123456789/18220', 
+/handle/123456789/13922', 
+/handle/123456789/17501', 
+/handle/123456789/87843', 
+/handle/123456789/19033', 
+/handle/123456789/1980'
+
+------fmipa------------
+/handle/123456789/19723 
+/handle/123456789/10142 
+/handle/123456789/17041 
+/handle/123456789/65719 
+/handle/123456789/15254 
+/handle/123456789/91714 
+/handle/123456789/13426 
+/handle/123456789/61876 
+/handle/123456789/79722 
+/handle/123456789/65425 
+/handle/123456789/65308 
+/handle/123456789/76794 
+/handle/123456789/20463 
+/handle/123456789/65708 
+/handle/123456789/15342 
+/handle/123456789/13431 
+/handle/123456789/83745 
+/handle/123456789/94803
+
+
+------ftp---------
+/handle/123456789/79665 
+/handle/123456789/67090 
+/handle/123456789/15413 
+/handle/123456789/75965 
+/handle/123456789/72269 
+/handle/123456789/96151 
+/handle/123456789/95706
+
+------faperta---------
+handle/123456789/17469 
+handle/123456789/85120 
+handle/123456789/65776 
+handle/123456789/72261
